@@ -1,0 +1,6 @@
+
+{
+  "name": "BankIA",
+  "description": "A digital banking application that helps users manage their finances with the assistance of an AI specialized in wealth creation strategies. Users can log their income and expenses, track their balance, and chat with an AI for financial advice.",
+  "requestFramePermissions": []
+}
